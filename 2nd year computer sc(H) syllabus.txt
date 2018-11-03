@@ -1,0 +1,140 @@
+                        ######  Part-II (Theoretical) : 100 MARKS  ######
+
+
+
+                                       \\ paper - 1 \\
+
+
+###  Distribution of Questions/marks:Q1. (Compulsory Short questions – 20 marks). Five questions to be answered from the remaining which consists of
+at least 8 questions. (All questions are of 16 marks: questions may have subdivisions. At least one question to be
+answered from each group).
+                            
+
+
+*topics----->
+
+**** (Graph Theory) -
+
+
+Graphs : Definition, Finite and Infinite Graphs, Directed and Undirected Graphs, Degree, Isolated vertex, Pendant
+vertex, Null graphs.
+Walks : Paths and Circuits, Connected and Disconnected graphs, Euler’s graphs, Hamiltonian paths and circuits,
+Trees, Definition and basic properties, Distance and contents, Matrix representation of graphs, Incidence, Adjacency
+and Circuit matrices, Graph Search – BFS, DFS, Spanning Trees, Shortest Path Problems.
+
+
+
+**** (Discrete Mathematical Structures) -
+
+
+Logic : Proposition, Predicates and Quantifiers. Sets, Functions, Growth of Functions, Relation, Equivalence
+Relation : Big O Notation, Big Omega and Big-Theta Notations.
+Algorithms : Complexity of Algorithms, Space and Time, Polynomial and Exponential Algorithms.
+Counting theory: Counting, Pigeon Hole Principle, Inclusion and Exclusion Principle, Permutations and
+Combinations, Recurrence relation, Definition and use.
+Introduction to Probability: Definition of sample space, events, probability, simple problems, Conditional
+Probability, Probability distribution – Binomial Distribution (significance only), Random variable, expected value,
+Standard Deviations and Variance;
+
+
+
+**** (Numerical and Optimization Techniques)-
+
+
+Errors : Concepts, types of errors
+System of Linear Equations: Properties of Set of Linear Equations – linearly dependent and independent, Rank,
+Singularity of Coefficient matrix, Ill-condition matrix, Gaussian Elimination, Gauss– Jordan Elimination, Iteration
+method & its convergence condition and testing, Gauss Iteration and Gauss-Seidel Iteration Algorithm and its
+applications.
+Nonlinear Equation: Iterative Methods and different types convergence, divergences and its test conditions,
+Bisection algorithm, Regular-falsi method, Secant and Newton-Raphson method, Problems and its graphical
+significances.
+Solution of Differential Equation: Euler Method, Taylor Method, Runge-Kutta second and fourth order method for
+solving differential equations.
+Interpolation : Newton Forward and Backward interpolation, Lagrange interpolation
+Curve Fitting: Linear, Quadratic, fittings.
+Integration: Mathematical Foundation for Trapezoidal and Simpson’s 1/3rd Rules and its Composite forms.
+Linear Programming: Linear Programming, Simplex Method, Duality, Transportation, Assignment problems.
+
+
+**** (Formal Languages and Automata Theory)-
+
+
+Department of Computer Science
+West Bengal State University, Barasat 
+Introduction to Formal Languages and Grammar, Finite Automata, Regular Expressions, Deterministic and NonDeterministic
+finite automata and their equivalence. State minimization, Chomsky Classification of Grammars,
+Concepts of Turing Machines and Universal Turing Machines.
+
+
+
+
+                                     \\  paper-2 \\
+
+
+#### Distribution of Questions/Marks:
+Q1. (Compulsory Short questions – 8 marks). Three questions to be answered from the rest which consists of at least
+5 questions (All questions are of 14 marks: questions may have subdivisions. At least one question to be answered
+from each section).
+
+
+
+
+
+
+**** Data Structures-(II)-->
+
+
+
+Trees : Definition, Quantitative Properties, Binary Tree, Tree traversals, Internal and external path lengths:
+Properties, Minimum and maximum path length of a binary tree, Importance.
+Binary Search Trees : Definition, Searching, Insertion, Deletion.
+Searching: Linear and binary search, Performance and complexity.
+Hashing : Concepts, Advantages and Disadvantages, Different types of hash functions, Collision and Collision
+Resolution Techniques – Open Addressing with probing, Linear Chaining, Coalesced Chaining, Application.
+Sorting : Terminology, Performance Evaluation, Different Sorting Techniques (Bubble, Insertion, Selection, Quick
+sort, Merge Sort, Heap, Partition Exchange, Radix with iterative and recursive description). Complexity, Advantages
+and Disadvantages.
+
+
+
+**** Systems Software –(II)-->
+
+
+
+Operating Systems : What is OS? Multiprogramming, Multitasking OS, Concepts of processes, Files, Shell,
+System Calls; Structures : Monolithic, Layered, Virtual, Client Server and Distributed Model.
+Concepts of Synchronization : Semaphores, Critical Regions, Monitor Inter Process Communication Mechanism.
+Processor Management : Scheduling and its types, Priority Queue.
+I/O Management : Device and Device Controllers, Interrupt Handlers and Device drivers.
+Memory Management : Real &Virtual memory ,Swapping , Paging, Segmentation , Page Replacement Techniques.
+File Systems : Files and Directories, File Servers, Security and Protection.
+Dead Lock : Definition, Prevention, Avoidance, Detection, Recovery.
+Case Study : Standard OS.
+
+
+
+ ##### practical --->
+
+ 
+Familiarity with single user and multi user operating systems.
+Internal and External Commands. File name and extension, Batch File creation, Command Line Arguments, System
+Configuration.
+Menus, Folders, Program Manager, File Creation, View and sort files, Document Preparation and Presentation.
+ Files and Directories, Copy, Delete, Rename Directory, Creation, Navigation, Editor, Pipes and Filters, Pattern
+searching.
+
+
+
+
+Section-II
+Programming through ‘C’ Language (Lab Periods – 35)
+Problems should cover basic features of the Language; Applications including numerical problems, Data Structure,
+Graph representation and manipulation.
+Distribution of Marks:
+Section I - one question to be answered
+Section II - -doMarks
+Allotment : Section I - 5 marks
+ Section II - 30 marks
+Sessional - 05 marks
+Viva-voce - 10 marks
